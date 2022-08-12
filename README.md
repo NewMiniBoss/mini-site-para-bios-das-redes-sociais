@@ -1,5 +1,3 @@
--> Social Tree <-
-
 # Sobre o Projeto
 
 A aplicação foi feita com os conhecimentos adiquiridos atraves dá [Rockeseat](https://app.rocketseat.com.br/dashboard "site da rocketsat").
