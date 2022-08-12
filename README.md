@@ -6,8 +6,6 @@ O projeto foi feito para agrupar links, com o intuito de facilitar o compartilha
 
  # Linguagens usadas
 
-A linguagem ultilizadas nesse projeto foi
-
 - HTML
 - CSS
 
