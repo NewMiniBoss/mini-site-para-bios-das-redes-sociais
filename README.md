@@ -4,7 +4,7 @@ A aplicação foi feita com os conhecimentos adiquiridos atraves dá [Rockeseat]
 
 O projeto foi feito para agrupar links, com o intuito de facilitar o compartilhamento de suas redes sociais
 
-## Linguagens usadas
+# Linguagens usadas
 
 A linguagem ultilizadas nesse projeto foi
 
